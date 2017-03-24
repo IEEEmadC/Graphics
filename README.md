@@ -1,6 +1,10 @@
-# Graphics
+Contributions:
+# Mohammad Hossein Babaee
 
-![alt text](https://github.com/IEEEmadC/Graphics/blob/master/Join%20Us.jpg "Join Us")
+### [Alex Stamatiades](https://www.facebook.com/alex.stamatiades) from [IEEE University of Piraeus SB!](https://www.facebook.com/IEEEUnipiSB/)
+
+### [Hans Cristian Felix](https://www.facebook.com/hans.fel) from Peru
+
 
 Want to add your graphics work ?
 We welcome pull requests :)
