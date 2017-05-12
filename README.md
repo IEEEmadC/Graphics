@@ -5,8 +5,8 @@ Contributions:
 
 ### [Hans Cristian Felix](https://www.facebook.com/hans.fel) from Peru
 
-### [Mohamed Afrar] (https://www.facebook.com/mmafrar) from [IEEE Sri Lanka Section] (https://www.facebook.com/IEEESriLanka/)
+### [Mohamed Afrar](https://www.facebook.com/mmafrar) from [IEEE Sri Lanka Section](https://www.facebook.com/IEEESriLanka/)
 
 
-Want to add your graphics work ?
+Interested in adding your graphics work ?
 We welcome pull requests :)
